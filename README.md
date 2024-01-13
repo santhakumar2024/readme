@@ -11,7 +11,7 @@
 #### :fire: My Stats :
 
 <a href="https://github.com/santhakumar2024/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurunanthan&theme=light&count_private=true&layout=compact" width="205" alt="Santhakumar's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhakumar2024&theme=light&count_private=true&layout=compact" width="205" alt="Santhakumar's most used languages" />
 </a>
 <a href="https://github.com/santhakumar2024/">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=santhakumar2024&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Santhakumar's github stats"/>
@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; -->
