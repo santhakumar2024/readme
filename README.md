@@ -7,7 +7,7 @@
   </div>
 </div>
 
-#### 💻 &nbsp; About Me : Highly motivated and academically-driven aspiring student eagerto translate theoretical knowledge into practical application and contribute to real-world Projects.
+#### 💻 &nbsp; About Me : I bring ideas to life on Android. Combining a passion for intuitive apps with expertise in Flutter and Django, I craft experiences that engage and empower users.
 #### :fire: My Stats :
 
 <a href="https://github.com/santhakumar2024">
