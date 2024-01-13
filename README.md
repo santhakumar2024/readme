@@ -10,10 +10,10 @@
 #### 💻 &nbsp; About Me : Highly motivated and academically-driven aspiring student eagerto translate theoretical knowledge into practical application and contribute to real-world Projects.
 #### :fire: My Stats :
 
-<a href="https://github.com/santhakumar2024/">
+<a href="https://github.com/santhakumar2024">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhakumar2024&theme=light&count_private=true&layout=compact" width="205" alt="Santhakumar's most used languages" />
 </a>
-<a href="https://github.com/santhakumar2024/">
+<a href="https://github.com/santhakumar2024">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=santhakumar2024&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Santhakumar's github stats"/>
 </a>
 
