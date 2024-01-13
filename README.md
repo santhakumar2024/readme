@@ -11,10 +11,10 @@
 #### :fire: My Stats :
 
 <a href="https://github.com/santhakumar2024/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurunanthan&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurunanthan&theme=light&count_private=true&layout=compact" width="205" alt="Santhakumar's most used languages" />
 </a>
 <a href="https://github.com/santhakumar2024/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gurunanthan&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhakumar2024&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Santhakumar's github stats"/>
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
